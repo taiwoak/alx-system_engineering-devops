@@ -1,1 +1,1 @@
-run this bash shell script to print the absolute path of your current working directory
+run the following bash script files by adding ./ at the front of these files
